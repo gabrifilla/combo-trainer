@@ -26,6 +26,11 @@ function startCombo(comboId: string) {
       <RouterLink class="ghost-button" to="/">Back</RouterLink>
     </header>
 
+    <section v-if="characterCombos.length === 0" class="empty-panel">
+      <span class="panel-label">No combos yet</span>
+      <p>Combo data for {{ character }} is not registered in the JSON file yet.</p>
+    </section>
+
     <section class="combo-list" aria-label="Combo selection">
       <button
         v-for="combo in characterCombos"
@@ -36,9 +41,9 @@ function startCombo(comboId: string) {
       >
         <span>
           <strong>{{ combo.name }}</strong>
-          <small>{{ combo.notes.length }} commands - {{ combo.difficulty }}</small>
+          <small>{{ combo.category ?? 'Combo' }} - {{ combo.notes.length }} commands - {{ combo.difficulty }}</small>
         </span>
-        <span class="combo-preview">{{ combo.notes.map((note) => note.label).join('  ') }}</span>
+        <span class="combo-preview">{{ combo.notation ?? combo.notes.map((note) => note.label).join('  ') }}</span>
       </button>
     </section>
   </main>
