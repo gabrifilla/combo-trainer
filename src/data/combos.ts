@@ -1,80 +1,58 @@
 import type { ComboDefinition, Fighter } from '@/types/combo';
+import characterCombos from '@/data/characterCombos.json';
 
 export const fighters: Fighter[] = [
-  { id: 'fighter-a', name: 'Fighter A', archetype: 'Balanced starter', accent: '#2dd4bf' },
-  { id: 'fighter-b', name: 'Fighter B', archetype: 'Pressure specialist', accent: '#f97316' },
-  { id: 'fighter-c', name: 'Fighter C', archetype: 'Timing focused', accent: '#a3e635' },
+  { id: 'kazuya', name: 'Kazuya', archetype: 'Mishima power', accent: '#ef4444' },
+  { id: 'jin', name: 'Jin', archetype: 'Balanced Mishima', accent: '#38bdf8' },
+  { id: 'king', name: 'King', archetype: 'Grappler', accent: '#f59e0b' },
+  { id: 'jun', name: 'Jun', archetype: 'Kazama style', accent: '#a7f3d0' },
+  { id: 'paul', name: 'Paul', archetype: 'Heavy striker', accent: '#f97316' },
+  { id: 'law', name: 'Law', archetype: 'Rushdown', accent: '#fde047' },
+  { id: 'jack-8', name: 'Jack-8', archetype: 'Power robot', accent: '#94a3b8' },
+  { id: 'lars', name: 'Lars', archetype: 'Mobile offense', accent: '#60a5fa' },
+  { id: 'xiaoyu', name: 'Xiaoyu', archetype: 'Evasive stance', accent: '#f9a8d4' },
+  { id: 'nina', name: 'Nina', archetype: 'Assassin pressure', accent: '#c4b5fd' },
+  { id: 'leroy', name: 'Leroy', archetype: 'Wing Chun', accent: '#eab308' },
+  { id: 'asuka', name: 'Asuka', archetype: 'Defensive counter', accent: '#22c55e' },
+  { id: 'lili', name: 'Lili', archetype: 'Elegant movement', accent: '#f0abfc' },
+  { id: 'bryan', name: 'Bryan', archetype: 'Counter-hit pressure', accent: '#fb7185' },
+  { id: 'hwoarang', name: 'Hwoarang', archetype: 'Kick pressure', accent: '#f97316' },
+  { id: 'claudio', name: 'Claudio', archetype: 'Starburst control', accent: '#818cf8' },
+  { id: 'azucena', name: 'Azucena', archetype: 'Coffee queen', accent: '#d97706' },
+  { id: 'raven', name: 'Raven', archetype: 'Ninjutsu mixups', accent: '#7c3aed' },
+  { id: 'leo', name: 'Leo', archetype: 'Versatile stance', accent: '#38bdf8' },
+  { id: 'steve', name: 'Steve', archetype: 'Boxing specialist', accent: '#f43f5e' },
+  { id: 'kuma', name: 'Kuma', archetype: 'Bear power', accent: '#a16207' },
+  { id: 'yoshimitsu', name: 'Yoshimitsu', archetype: 'Tricky swordplay', accent: '#22d3ee' },
+  { id: 'shaheen', name: 'Shaheen', archetype: 'Slide pressure', accent: '#fbbf24' },
+  { id: 'dragunov', name: 'Dragunov', archetype: 'Relentless offense', accent: '#64748b' },
+  { id: 'feng', name: 'Feng', archetype: 'Kenpo pressure', accent: '#dc2626' },
+  { id: 'panda', name: 'Panda', archetype: 'Bear stance', accent: '#f8fafc' },
+  { id: 'lee', name: 'Lee', archetype: 'Excellent timing', accent: '#60a5fa' },
+  { id: 'alisa', name: 'Alisa', archetype: 'Android movement', accent: '#fb7185' },
+  { id: 'zafina', name: 'Zafina', archetype: 'Unorthodox stances', accent: '#a78bfa' },
+  { id: 'devil-jin', name: 'Devil Jin', archetype: 'Devil Mishima', accent: '#8b5cf6' },
+  { id: 'victor', name: 'Victor', archetype: 'Super spy CQB', accent: '#93c5fd' },
+  { id: 'reina', name: 'Reina', archetype: 'Aggressive Mishima', accent: '#c084fc' },
+  { id: 'eddy', name: 'Eddy', archetype: 'Capoeira', accent: '#22c55e' },
+  { id: 'lidia', name: 'Lidia', archetype: 'Karate prime minister', accent: '#ef4444' },
+  { id: 'heihachi', name: 'Heihachi', archetype: 'Mishima legend', accent: '#facc15' },
+  { id: 'clive', name: 'Clive', archetype: 'Guest swordfighter', accent: '#e879f9' },
+  { id: 'anna', name: 'Anna', archetype: 'Assassin mixups', accent: '#f472b6' },
+  { id: 'fahkumram', name: 'Fahkumram', archetype: 'Muay Thai power', accent: '#fb923c' },
+  { id: 'armor-king', name: 'Armor King', archetype: 'Dark grappler', accent: '#a855f7' },
+  { id: 'miary-zo', name: 'Miary Zo', archetype: 'Morengy fighter', accent: '#34d399' },
+  { id: 'kunimitsu', name: 'Kunimitsu', archetype: 'Ninja thief', accent: '#f87171' },
 ];
 
-export const combos: ComboDefinition[] = [
-  {
-    id: 'combo-basic-001',
-    character: 'Fighter A',
-    name: 'Combo basico',
-    difficulty: 'beginner',
-    scrollSpeed: 1,
-    approachTime: 2000,
-    hitWindow: { perfect: 80, great: 150, good: 250 },
-    notes: [
-      { id: 'a-1', label: 'df+2', time: 1000, directions: ['down', 'forward'], buttons: ['2'] },
-      { id: 'a-2', label: '1', time: 1800, directions: [], buttons: ['1'] },
-      { id: 'a-3', label: '2', time: 2100, directions: [], buttons: ['2'] },
-      { id: 'a-4', label: '1', time: 2400, directions: [], buttons: ['1'] },
-      { id: 'a-5', label: 'f+2', time: 3200, directions: ['forward'], buttons: ['2'] },
-    ],
-  },
-  {
-    id: 'combo-basic-002',
-    character: 'Fighter A',
-    name: 'Ritmo de jab',
-    difficulty: 'beginner',
-    scrollSpeed: 1,
-    approachTime: 1800,
-    hitWindow: { perfect: 80, great: 150, good: 250 },
-    notes: [
-      { id: 'jab-1', label: '1', time: 900, directions: [], buttons: ['1'] },
-      { id: 'jab-2', label: '1', time: 1250, directions: [], buttons: ['1'] },
-      { id: 'jab-3', label: '2', time: 1650, directions: [], buttons: ['2'] },
-      { id: 'jab-4', label: 'f+2', time: 2300, directions: ['forward'], buttons: ['2'] },
-      { id: 'jab-5', label: 'df+2', time: 3150, directions: ['down', 'forward'], buttons: ['2'] },
-    ],
-  },
-  {
-    id: 'combo-pressure-001',
-    character: 'Fighter B',
-    name: 'Pressao curta',
-    difficulty: 'intermediate',
-    scrollSpeed: 1.08,
-    approachTime: 1700,
-    hitWindow: { perfect: 80, great: 150, good: 250 },
-    notes: [
-      { id: 'b-1', label: 'f+2', time: 800, directions: ['forward'], buttons: ['2'] },
-      { id: 'b-2', label: '1', time: 1250, directions: [], buttons: ['1'] },
-      { id: 'b-3', label: '2', time: 1520, directions: [], buttons: ['2'] },
-      { id: 'b-4', label: 'db+3', time: 2300, directions: ['down', 'back'], buttons: ['3'] },
-      { id: 'b-5', label: '4', time: 2920, directions: [], buttons: ['4'] },
-      { id: 'b-6', label: 'df+2', time: 3600, directions: ['down', 'forward'], buttons: ['2'] },
-    ],
-  },
-  {
-    id: 'combo-timing-001',
-    character: 'Fighter C',
-    name: 'Cadencia precisa',
-    difficulty: 'advanced',
-    scrollSpeed: 1.15,
-    approachTime: 1600,
-    hitWindow: { perfect: 80, great: 150, good: 250 },
-    notes: [
-      { id: 'c-1', label: 'df+2', time: 900, directions: ['down', 'forward'], buttons: ['2'] },
-      { id: 'c-2', label: '1', time: 1550, directions: [], buttons: ['1'] },
-      { id: 'c-3', label: '2', time: 1800, directions: [], buttons: ['2'] },
-      { id: 'c-4', label: '1,2,1', time: 2300, directions: [], buttons: ['1'] },
-      { id: 'c-5', label: '2', time: 2540, directions: [], buttons: ['2'] },
-      { id: 'c-6', label: '1', time: 2780, directions: [], buttons: ['1'] },
-      { id: 'c-7', label: 'f+2', time: 3500, directions: ['forward'], buttons: ['2'] },
-    ],
-  },
-];
+const combosByFighterId = characterCombos as Record<string, Omit<ComboDefinition, 'character'>[]>;
+
+export const combos: ComboDefinition[] = fighters.flatMap((fighter) => {
+  return (combosByFighterId[fighter.id] ?? []).map((combo) => ({
+    ...combo,
+    character: fighter.name,
+  }));
+});
 
 export function getCombosByCharacter(character: string) {
   return combos.filter((combo) => combo.character === character);

@@ -83,14 +83,16 @@ h1 {
 
 .fighter-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 10px;
 }
 
 .fighter-card,
 .combo-row,
 .now-panel,
 .input-display,
+.settings-panel,
+.empty-panel,
 .stats-panel {
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 8px;
@@ -99,11 +101,11 @@ h1 {
 }
 
 .fighter-card {
-  min-height: 210px;
+  min-height: 132px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 18px;
+  padding: 14px;
   overflow: hidden;
   position: relative;
 }
@@ -112,9 +114,9 @@ h1 {
   content: "";
   position: absolute;
   inset: auto 18px 18px auto;
-  width: 76px;
-  height: 76px;
-  border: 3px solid var(--accent);
+  width: 54px;
+  height: 54px;
+  border: 2px solid var(--accent);
   opacity: 0.45;
   transform: rotate(45deg);
 }
@@ -128,19 +130,20 @@ h1 {
 }
 
 .fighter-mark {
-  width: 54px;
-  height: 54px;
+  width: 42px;
+  height: 42px;
   display: grid;
   place-items: center;
   border-radius: 8px;
   background: var(--accent);
   color: #08090d;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 900;
 }
 
 .fighter-card h2 {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
+  font-size: 1.1rem;
 }
 
 .fighter-card p,
@@ -148,9 +151,39 @@ h1 {
   color: #9aa7b5;
 }
 
+.fighter-search {
+  display: grid;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.fighter-search span {
+  color: #8b98a5;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.fighter-search input {
+  width: min(420px, 100%);
+  min-height: 42px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+  padding: 0 12px;
+  color: #f7fafc;
+  background: rgba(255, 255, 255, 0.06);
+}
+
 .combo-list {
   display: grid;
   gap: 12px;
+}
+
+.empty-panel {
+  padding: 18px;
+  color: #bac4cf;
+  line-height: 1.5;
 }
 
 .combo-row {
@@ -312,7 +345,8 @@ h1 {
 }
 
 .now-panel,
-.input-display {
+.input-display,
+.settings-panel {
   padding: 16px;
 }
 
@@ -321,6 +355,13 @@ h1 {
   display: block;
   font-family: "SFMono-Regular", Consolas, monospace;
   font-size: 1.8rem;
+}
+
+.input-source {
+  display: block;
+  margin-top: 8px;
+  color: #8b98a5;
+  overflow-wrap: anywhere;
 }
 
 .upcoming-list {
@@ -345,6 +386,89 @@ kbd {
   flex-wrap: wrap;
   gap: 7px;
   margin-top: 14px;
+}
+
+.settings-header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.text-button {
+  border: 0;
+  padding: 0;
+  color: #5eead4;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.binding-list {
+  display: grid;
+  gap: 8px;
+}
+
+.side-toggle {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.side-toggle button {
+  min-height: 34px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+  color: #cbd5e1;
+  background: rgba(255, 255, 255, 0.06);
+  cursor: pointer;
+  font-weight: 900;
+}
+
+.side-toggle button.active {
+  border-color: #2dd4bf;
+  color: #071012;
+  background: #2dd4bf;
+}
+
+.binding-row {
+  display: grid;
+  grid-template-columns: 52px 1fr 1fr;
+  gap: 8px;
+  align-items: center;
+}
+
+.binding-row strong {
+  font-family: "SFMono-Regular", Consolas, monospace;
+  color: #e2e8f0;
+}
+
+.binding-button {
+  min-width: 0;
+  min-height: 34px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+  padding: 0 8px;
+  color: #cbd5e1;
+  background: rgba(255, 255, 255, 0.06);
+  cursor: pointer;
+  font-family: "SFMono-Regular", Consolas, monospace;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.binding-button:hover,
+.text-button:hover {
+  color: #f7fafc;
+}
+
+.capture-status {
+  display: block;
+  margin-top: 12px;
+  color: #fed7aa;
+  font-weight: 800;
 }
 
 .stats-panel {

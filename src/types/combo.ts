@@ -2,6 +2,10 @@ export type Difficulty = 'beginner' | 'intermediate' | 'advanced';
 export type DirectionInput = 'forward' | 'back' | 'up' | 'down';
 export type AttackInput = '1' | '2' | '3' | '4';
 export type LogicalInput = DirectionInput | AttackInput;
+export type InputBindings = {
+  keyboard: Record<LogicalInput, string>;
+  gamepadButtons: Record<LogicalInput, number[]>;
+};
 export type PlayerSide = 'P1' | 'P2';
 export type JudgeResult = 'Perfect' | 'Great' | 'Good' | 'Miss';
 
@@ -24,6 +28,9 @@ export interface ComboDefinition {
   character: string;
   name: string;
   difficulty: Difficulty;
+  category?: string;
+  notation?: string;
+  source?: string;
   scrollSpeed: number;
   approachTime: number;
   hitWindow: HitWindow;

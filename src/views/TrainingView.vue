@@ -3,10 +3,11 @@ import { computed, nextTick, onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
 import GameStage from '@/components/GameStage.vue';
 import InputDisplay from '@/components/InputDisplay.vue';
+import InputSettings from '@/components/InputSettings.vue';
 import StatsPanel from '@/components/StatsPanel.vue';
 import { getComboById } from '@/data/combos';
 import { useGameLoop } from '@/composables/useGameLoop';
-import { useKeyboardInput } from '@/composables/useKeyboardInput';
+import { usePlayerInput } from '@/composables/usePlayerInput';
 import { useTrainingStore } from '@/stores/trainingStore';
 import { matchesNoteInput } from '@/utils/inputMatcher';
 import { judgeTiming } from '@/utils/timingJudge';
@@ -20,6 +21,7 @@ const combo = computed(() => getComboById(props.comboId));
 const currentTime = ref(0);
 const startedAt = ref(0);
 const running = ref(false);
+const isCapturingInput = ref(false);
 const noteStates = ref<Record<string, JudgeResult | 'pending'>>({});
 const flashResult = ref<JudgeResult | null>(null);
 let popupTimeout = 0;
@@ -69,7 +71,9 @@ function handleAttack(_button: AttackInput, pressedInputs: Set<LogicalInput>) {
   record(candidate.note, result ?? 'Miss');
 }
 
-const { pressedInputs } = useKeyboardInput(handleAttack, 'P1');
+const { pressedInputs, isGamepadConnected, gamepadName } = usePlayerInput(handleAttack, {
+  enabled: computed(() => !isCapturingInput.value),
+});
 
 const renderNotes = computed(() => {
   if (!combo.value) return [];
@@ -169,7 +173,12 @@ onMounted(() => {
           <span v-for="note in upcomingNotes" :key="note.id">{{ note.label }}</span>
         </div>
       </section>
-      <InputDisplay :pressed-inputs="pressedInputs" />
+      <InputDisplay
+        :pressed-inputs="pressedInputs"
+        :gamepad-name="gamepadName"
+        :is-gamepad-connected="isGamepadConnected"
+      />
+      <InputSettings @capture-change="isCapturingInput = $event" />
       <StatsPanel :stats="training.stats" :accuracy="training.accuracy" />
     </aside>
   </main>
