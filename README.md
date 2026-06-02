@@ -21,5 +21,6 @@ npm run dev
 
 Use the Controls panel in training mode to remap each command to a keyboard key or gamepad button. The left stick always remains available for directions.
 Use the P1/P2 toggle in the same panel to choose which side the combo should be interpreted from; P2 flips forward/back.
+Press Select/Back/View or Start/Menu on a connected gamepad to restart the current combo.
 
 The MVP uses P1 side mapping, so Right is forward and Left is back.

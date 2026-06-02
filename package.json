@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vue-tsc -b && vite build",
+    "combos:enrich-frame-data": "tsx scripts/enrich-combos-with-frame-data.ts",
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
@@ -16,6 +17,7 @@
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
+    "tsx": "^4.20.5",
     "typescript": "^5.8.3",
     "vue-tsc": "^2.2.10"
   }

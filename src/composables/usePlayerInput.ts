@@ -4,10 +4,12 @@ import type { AttackInput, LogicalInput, PlayerSide } from '@/types/combo';
 
 const attackInputs: AttackInput[] = ['1', '2', '3', '4'];
 const inputOrder: LogicalInput[] = ['up', 'down', 'back', 'forward', '1', '2', '3', '4'];
+const resetButtons = [8, 9];
 const stickThreshold = 0.45;
 
 interface PlayerInputOptions {
   enabled?: MaybeRefOrGetter<boolean>;
+  onReset?: () => void;
 }
 
 function isAttackInput(input: LogicalInput): input is AttackInput {
@@ -57,6 +59,7 @@ export function usePlayerInput(
   const activeGamepadIndex = ref<number | null>(null);
   const gamepadName = ref('');
   const previousGamepadAttacks = new Set<AttackInput>();
+  const previousResetButtons = new Set<number>();
   let animationFrame = 0;
 
   const combinedPressed = () => new Set<LogicalInput>([...keyboardPressed, ...gamepadPressed]);
@@ -112,6 +115,7 @@ export function usePlayerInput(
     if (!gamepad) {
       gamepadPressed.clear();
       previousGamepadAttacks.clear();
+      previousResetButtons.clear();
       selectGamepad(null);
       sync();
       return;
@@ -122,6 +126,7 @@ export function usePlayerInput(
     if (!inputEnabled(options)) {
       gamepadPressed.clear();
       previousGamepadAttacks.clear();
+      previousResetButtons.clear();
       sync();
       return;
     }
@@ -151,6 +156,20 @@ export function usePlayerInput(
 
     sync();
 
+    for (const buttonIndex of resetButtons) {
+      const isPressed = Boolean(gamepad.buttons[buttonIndex]?.pressed);
+      if (isPressed && !previousResetButtons.has(buttonIndex)) {
+        options?.onReset?.();
+      }
+    }
+
+    previousResetButtons.clear();
+    resetButtons.forEach((buttonIndex) => {
+      if (gamepad.buttons[buttonIndex]?.pressed) {
+        previousResetButtons.add(buttonIndex);
+      }
+    });
+
     for (const input of currentGamepadAttacks) {
       if (!previousGamepadAttacks.has(input)) {
         onAttack?.(input, combinedPressed());
@@ -175,6 +194,7 @@ export function usePlayerInput(
     selectGamepad(null);
     gamepadPressed.clear();
     previousGamepadAttacks.clear();
+    previousResetButtons.clear();
     sync();
   };
 
