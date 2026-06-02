@@ -9,7 +9,7 @@ import { getComboById } from '@/data/combos';
 import { useGameLoop } from '@/composables/useGameLoop';
 import { usePlayerInput } from '@/composables/usePlayerInput';
 import { useTrainingStore } from '@/stores/trainingStore';
-import { matchesNoteInput } from '@/utils/inputMatcher';
+import { canWaitForMoreButtons, matchesNoteInput, requiresPlayerAttack } from '@/utils/inputMatcher';
 import { judgeTiming } from '@/utils/timingJudge';
 import type { AttackInput, ComboNote, JudgeResult, LogicalInput } from '@/types/combo';
 
@@ -50,7 +50,7 @@ function findClosestPendingNote() {
   const maxWindow = combo.value.hitWindow.good;
 
   return combo.value.notes
-    .filter((note) => noteStates.value[note.id] === 'pending')
+    .filter((note) => noteStates.value[note.id] === 'pending' && requiresPlayerAttack(note))
     .map((note) => ({ note, delta: currentTime.value - note.time }))
     .filter((item) => Math.abs(item.delta) <= maxWindow)
     .sort((a, b) => Math.abs(a.delta) - Math.abs(b.delta))[0] ?? null;
@@ -63,6 +63,7 @@ function handleAttack(_button: AttackInput, pressedInputs: Set<LogicalInput>) {
   if (!candidate) return;
 
   if (!matchesNoteInput(candidate.note, pressedInputs)) {
+    if (canWaitForMoreButtons(candidate.note, pressedInputs)) return;
     record(candidate.note, 'Miss');
     return;
   }
@@ -73,6 +74,7 @@ function handleAttack(_button: AttackInput, pressedInputs: Set<LogicalInput>) {
 
 const { pressedInputs, isGamepadConnected, gamepadName } = usePlayerInput(handleAttack, {
   enabled: computed(() => !isCapturingInput.value),
+  onReset: restart,
 });
 
 const renderNotes = computed(() => {
@@ -108,6 +110,11 @@ function tick(now: number) {
   currentTime.value = now - startedAt.value;
 
   for (const note of combo.value.notes) {
+    if (noteStates.value[note.id] === 'pending' && !requiresPlayerAttack(note) && currentTime.value >= note.time) {
+      noteStates.value = { ...noteStates.value, [note.id]: 'Good' };
+      continue;
+    }
+
     if (noteStates.value[note.id] === 'pending' && currentTime.value > note.time + combo.value.hitWindow.good) {
       record(note, 'Miss');
     }

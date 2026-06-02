@@ -1,5 +1,5 @@
 import type { ComboDefinition, Fighter } from '@/types/combo';
-import characterCombos from '@/data/characterCombos.json';
+import comboDatabase from '@/data/combo-database';
 
 export const fighters: Fighter[] = [
   { id: 'kazuya', name: 'Kazuya', archetype: 'Mishima power', accent: '#ef4444' },
@@ -45,11 +45,10 @@ export const fighters: Fighter[] = [
   { id: 'kunimitsu', name: 'Kunimitsu', archetype: 'Ninja thief', accent: '#f87171' },
 ];
 
-const combosByFighterId = characterCombos as Record<string, Omit<ComboDefinition, 'character'>[]>;
-
 export const combos: ComboDefinition[] = fighters.flatMap((fighter) => {
-  return (combosByFighterId[fighter.id] ?? []).map((combo) => ({
+  return (comboDatabase[fighter.id] ?? []).map((combo) => ({
     ...combo,
+    difficulty: combo.difficulty as ComboDefinition['difficulty'],
     character: fighter.name,
   }));
 });

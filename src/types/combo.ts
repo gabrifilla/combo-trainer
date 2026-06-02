@@ -21,6 +21,12 @@ export interface ComboNote {
   time: number;
   directions: DirectionInput[];
   buttons: AttackInput[];
+  kind?: 'attack' | 'stance' | 'movement' | 'system';
+  inputSequence?: Array<{
+    directions: DirectionInput[];
+    buttons: AttackInput[];
+    frameOffset?: number;
+  }>;
 }
 
 export interface ComboDefinition {
@@ -31,6 +37,12 @@ export interface ComboDefinition {
   category?: string;
   notation?: string;
   source?: string;
+  timing?: {
+    source: 'manual' | 'video-60fps' | 'estimated-rule-v1';
+    fps: number;
+    startOffsetFrames: number;
+    manualGapFrames?: number[];
+  };
   scrollSpeed: number;
   approachTime: number;
   hitWindow: HitWindow;

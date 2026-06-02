@@ -1,0 +1,7244 @@
+{
+  "totalNotes": 1184,
+  "matched": 266,
+  "partial": 223,
+  "ambiguous": 524,
+  "nonAttack": 135,
+  "notFound": 36,
+  "totalCharacters": 41,
+  "totalCombos": 143,
+  "byCharacter": {
+    "kazuya": {
+      "totalNotes": 29,
+      "matched": 10,
+      "partial": 5,
+      "ambiguous": 7,
+      "nonAttack": 5,
+      "notFound": 2
+    },
+    "jin": {
+      "totalNotes": 24,
+      "matched": 6,
+      "partial": 3,
+      "ambiguous": 12,
+      "nonAttack": 3,
+      "notFound": 0
+    },
+    "king": {
+      "totalNotes": 62,
+      "matched": 10,
+      "partial": 5,
+      "ambiguous": 35,
+      "nonAttack": 12,
+      "notFound": 0
+    },
+    "jun": {
+      "totalNotes": 17,
+      "matched": 4,
+      "partial": 3,
+      "ambiguous": 9,
+      "nonAttack": 1,
+      "notFound": 0
+    },
+    "paul": {
+      "totalNotes": 15,
+      "matched": 3,
+      "partial": 4,
+      "ambiguous": 8,
+      "nonAttack": 0,
+      "notFound": 0
+    },
+    "law": {
+      "totalNotes": 36,
+      "matched": 7,
+      "partial": 6,
+      "ambiguous": 12,
+      "nonAttack": 9,
+      "notFound": 2
+    },
+    "jack-8": {
+      "totalNotes": 26,
+      "matched": 4,
+      "partial": 2,
+      "ambiguous": 13,
+      "nonAttack": 7,
+      "notFound": 0
+    },
+    "lars": {
+      "totalNotes": 33,
+      "matched": 7,
+      "partial": 7,
+      "ambiguous": 12,
+      "nonAttack": 6,
+      "notFound": 1
+    },
+    "xiaoyu": {
+      "totalNotes": 24,
+      "matched": 9,
+      "partial": 5,
+      "ambiguous": 8,
+      "nonAttack": 2,
+      "notFound": 0
+    },
+    "nina": {
+      "totalNotes": 16,
+      "matched": 8,
+      "partial": 1,
+      "ambiguous": 4,
+      "nonAttack": 3,
+      "notFound": 0
+    },
+    "leroy": {
+      "totalNotes": 18,
+      "matched": 8,
+      "partial": 4,
+      "ambiguous": 6,
+      "nonAttack": 0,
+      "notFound": 0
+    },
+    "asuka": {
+      "totalNotes": 21,
+      "matched": 3,
+      "partial": 3,
+      "ambiguous": 12,
+      "nonAttack": 3,
+      "notFound": 0
+    },
+    "lili": {
+      "totalNotes": 22,
+      "matched": 5,
+      "partial": 7,
+      "ambiguous": 9,
+      "nonAttack": 0,
+      "notFound": 1
+    },
+    "bryan": {
+      "totalNotes": 19,
+      "matched": 5,
+      "partial": 0,
+      "ambiguous": 13,
+      "nonAttack": 1,
+      "notFound": 0
+    },
+    "hwoarang": {
+      "totalNotes": 30,
+      "matched": 7,
+      "partial": 8,
+      "ambiguous": 10,
+      "nonAttack": 5,
+      "notFound": 0
+    },
+    "claudio": {
+      "totalNotes": 31,
+      "matched": 6,
+      "partial": 5,
+      "ambiguous": 11,
+      "nonAttack": 9,
+      "notFound": 0
+    },
+    "azucena": {
+      "totalNotes": 27,
+      "matched": 5,
+      "partial": 5,
+      "ambiguous": 12,
+      "nonAttack": 5,
+      "notFound": 0
+    },
+    "raven": {
+      "totalNotes": 35,
+      "matched": 10,
+      "partial": 4,
+      "ambiguous": 14,
+      "nonAttack": 7,
+      "notFound": 0
+    },
+    "leo": {
+      "totalNotes": 19,
+      "matched": 2,
+      "partial": 4,
+      "ambiguous": 12,
+      "nonAttack": 1,
+      "notFound": 0
+    },
+    "steve": {
+      "totalNotes": 92,
+      "matched": 53,
+      "partial": 13,
+      "ambiguous": 16,
+      "nonAttack": 8,
+      "notFound": 2
+    },
+    "kuma": {
+      "totalNotes": 21,
+      "matched": 3,
+      "partial": 5,
+      "ambiguous": 9,
+      "nonAttack": 2,
+      "notFound": 2
+    },
+    "yoshimitsu": {
+      "totalNotes": 30,
+      "matched": 9,
+      "partial": 1,
+      "ambiguous": 14,
+      "nonAttack": 5,
+      "notFound": 1
+    },
+    "shaheen": {
+      "totalNotes": 26,
+      "matched": 8,
+      "partial": 8,
+      "ambiguous": 5,
+      "nonAttack": 5,
+      "notFound": 0
+    },
+    "dragunov": {
+      "totalNotes": 20,
+      "matched": 4,
+      "partial": 3,
+      "ambiguous": 12,
+      "nonAttack": 1,
+      "notFound": 0
+    },
+    "feng": {
+      "totalNotes": 23,
+      "matched": 7,
+      "partial": 3,
+      "ambiguous": 10,
+      "nonAttack": 3,
+      "notFound": 0
+    },
+    "panda": {
+      "totalNotes": 16,
+      "matched": 4,
+      "partial": 4,
+      "ambiguous": 8,
+      "nonAttack": 0,
+      "notFound": 0
+    },
+    "lee": {
+      "totalNotes": 32,
+      "matched": 5,
+      "partial": 5,
+      "ambiguous": 17,
+      "nonAttack": 3,
+      "notFound": 2
+    },
+    "alisa": {
+      "totalNotes": 12,
+      "matched": 1,
+      "partial": 1,
+      "ambiguous": 9,
+      "nonAttack": 1,
+      "notFound": 0
+    },
+    "zafina": {
+      "totalNotes": 19,
+      "matched": 4,
+      "partial": 6,
+      "ambiguous": 9,
+      "nonAttack": 0,
+      "notFound": 0
+    },
+    "devil-jin": {
+      "totalNotes": 14,
+      "matched": 7,
+      "partial": 1,
+      "ambiguous": 4,
+      "nonAttack": 0,
+      "notFound": 2
+    },
+    "victor": {
+      "totalNotes": 71,
+      "matched": 4,
+      "partial": 10,
+      "ambiguous": 51,
+      "nonAttack": 4,
+      "notFound": 2
+    },
+    "reina": {
+      "totalNotes": 20,
+      "matched": 3,
+      "partial": 3,
+      "ambiguous": 9,
+      "nonAttack": 4,
+      "notFound": 1
+    },
+    "eddy": {
+      "totalNotes": 14,
+      "matched": 4,
+      "partial": 2,
+      "ambiguous": 8,
+      "nonAttack": 0,
+      "notFound": 0
+    },
+    "lidia": {
+      "totalNotes": 45,
+      "matched": 4,
+      "partial": 12,
+      "ambiguous": 18,
+      "nonAttack": 1,
+      "notFound": 10
+    },
+    "heihachi": {
+      "totalNotes": 20,
+      "matched": 1,
+      "partial": 11,
+      "ambiguous": 8,
+      "nonAttack": 0,
+      "notFound": 0
+    },
+    "clive": {
+      "totalNotes": 28,
+      "matched": 1,
+      "partial": 5,
+      "ambiguous": 19,
+      "nonAttack": 2,
+      "notFound": 1
+    },
+    "anna": {
+      "totalNotes": 37,
+      "matched": 3,
+      "partial": 10,
+      "ambiguous": 17,
+      "nonAttack": 4,
+      "notFound": 3
+    },
+    "fahkumram": {
+      "totalNotes": 20,
+      "matched": 3,
+      "partial": 4,
+      "ambiguous": 13,
+      "nonAttack": 0,
+      "notFound": 0
+    },
+    "armor-king": {
+      "totalNotes": 30,
+      "matched": 5,
+      "partial": 3,
+      "ambiguous": 17,
+      "nonAttack": 3,
+      "notFound": 2
+    },
+    "miary-zo": {
+      "totalNotes": 31,
+      "matched": 7,
+      "partial": 11,
+      "ambiguous": 9,
+      "nonAttack": 2,
+      "notFound": 2
+    },
+    "kunimitsu": {
+      "totalNotes": 59,
+      "matched": 7,
+      "partial": 21,
+      "ambiguous": 23,
+      "nonAttack": 8,
+      "notFound": 0
+    }
+  },
+  "unresolved": [
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-1",
+      "noteId": "kazuya-route-1-1",
+      "label": "EWGF",
+      "status": "not-found"
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-1",
+      "noteId": "kazuya-route-1-2",
+      "label": "EWGF",
+      "status": "not-found"
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-1",
+      "noteId": "kazuya-route-1-6",
+      "label": "SSR 4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-1",
+      "noteId": "kazuya-route-1-7",
+      "label": "WGS 1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-2",
+      "noteId": "kazuya-route-2-9",
+      "label": "SSR 4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-3",
+      "noteId": "kazuya-route-3-6",
+      "label": "df,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-3",
+      "noteId": "kazuya-route-3-7",
+      "label": "df,1,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-3",
+      "noteId": "kazuya-route-3-9",
+      "label": "SSR,4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "kazuya",
+      "comboId": "kazuya-route-3",
+      "noteId": "kazuya-route-3-11",
+      "label": "b,2,2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-1",
+      "noteId": "jin-route-1-3",
+      "label": "b+3,f~ZEN 1",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "b+3"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-1",
+      "noteId": "jin-route-1-4",
+      "label": "bf+2,3,u+1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-1",
+      "noteId": "jin-route-1-8",
+      "label": "db+2,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,4",
+        "4",
+        "db+2",
+        "db+2,2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-2",
+      "noteId": "jin-route-2-3",
+      "label": "b+3,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3",
+        "3,1",
+        "b+3"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-2",
+      "noteId": "jin-route-2-4",
+      "label": "bf+1,3,uf+1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-2",
+      "noteId": "jin-route-2-8",
+      "label": "F,ff+4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-3",
+      "noteId": "jin-route-3-1",
+      "label": "f,N,d,df,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-3",
+      "noteId": "jin-route-3-2",
+      "label": "f,N,d,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-3",
+      "noteId": "jin-route-3-3",
+      "label": "b,3,f,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-3",
+      "noteId": "jin-route-3-4",
+      "label": "b,f,2,3,u,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-3",
+      "noteId": "jin-route-3-5",
+      "label": "df,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "jin",
+      "comboId": "jin-route-3",
+      "noteId": "jin-route-3-8",
+      "label": "db,2,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-1",
+      "noteId": "king-route-1-8",
+      "label": "3+4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-1",
+      "noteId": "king-route-1-9",
+      "label": "iWR 2+4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "2+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-2",
+      "noteId": "king-route-2-6",
+      "label": "df,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-2",
+      "noteId": "king-route-2-7",
+      "label": "b,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-2",
+      "noteId": "king-route-2-8",
+      "label": "3+4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-2",
+      "noteId": "king-route-2-9",
+      "label": "iWR,2+4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "2+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-3",
+      "noteId": "king-route-3-1",
+      "label": "FC,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-3",
+      "noteId": "king-route-3-3",
+      "label": "df,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-3",
+      "noteId": "king-route-3-4",
+      "label": "b,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-3",
+      "noteId": "king-route-3-5",
+      "label": "3+4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-3",
+      "noteId": "king-route-3-7",
+      "label": "f,2,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-3",
+      "noteId": "king-route-3-8",
+      "label": "d,2+3",
+      "status": "ambiguous",
+      "candidates": [
+        "2+3",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-4",
+      "noteId": "king-route-4-1",
+      "label": "FC,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-4",
+      "noteId": "king-route-4-3",
+      "label": "df,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-4",
+      "noteId": "king-route-4-5",
+      "label": "f,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-4",
+      "noteId": "king-route-4-8",
+      "label": "b,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-4",
+      "noteId": "king-route-4-9",
+      "label": "f,f,F,2+4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "2+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-5",
+      "noteId": "king-route-5-1",
+      "label": "FC,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-5",
+      "noteId": "king-route-5-3",
+      "label": "df,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-5",
+      "noteId": "king-route-5-4",
+      "label": "b,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-5",
+      "noteId": "king-route-5-5",
+      "label": "f,f,F,2+4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "2+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-6",
+      "noteId": "king-route-6-1",
+      "label": "WS,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "f+3,1+2",
+        "b+2,1+2",
+        "f,f,n,1+2",
+        "AB1.1,1+2",
+        "AB2b.3,4,3+4,1+2",
+        "AB2c.1,3,4,2,1+2",
+        "AB2c.2,1,3,1+2",
+        "DHH.1+2,1+2",
+        "MMD3.2,3,1,1+2",
+        "MMD4.3+4,1+2",
+        "MMD5.1+2,4,2,1+2",
+        "PD.1+2,3,4,1+2",
+        "PD.1+2,1+2",
+        "SHH1.1,2,1+2",
+        "SHH2c.3,4,1+2,3+4",
+        "UT,1+2",
+        "UT,1+2,1+2",
+        "b+1+2,1+2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-6",
+      "noteId": "king-route-6-2",
+      "label": "df,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-6",
+      "noteId": "king-route-6-4",
+      "label": "f,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-6",
+      "noteId": "king-route-6-5",
+      "label": "df,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-6",
+      "noteId": "king-route-6-8",
+      "label": "b,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-6",
+      "noteId": "king-route-6-9",
+      "label": "f,f,F,2+4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "2+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-7",
+      "noteId": "king-route-7-1",
+      "label": "FC,df,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-7",
+      "noteId": "king-route-7-4",
+      "label": "f,f,F,2+4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "2+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-8",
+      "noteId": "king-route-8-1",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-8",
+      "noteId": "king-route-8-4",
+      "label": "f,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-8",
+      "noteId": "king-route-8-5",
+      "label": "df,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-8",
+      "noteId": "king-route-8-6",
+      "label": "b,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-8",
+      "noteId": "king-route-8-7",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "king",
+      "comboId": "king-route-8",
+      "noteId": "king-route-8-9",
+      "label": "f,b,db,d,df,f,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "DF"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-1",
+      "noteId": "jun-route-1-4",
+      "label": "b+2,1,B~MIA 1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "b+2",
+        "b+2,1"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-1",
+      "noteId": "jun-route-1-5",
+      "label": "ff+2,F,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-2",
+      "noteId": "jun-route-2-1",
+      "label": "df,2,(1+2)",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-2",
+      "noteId": "jun-route-2-3",
+      "label": "b,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-2",
+      "noteId": "jun-route-2-4",
+      "label": "b,2,1,B,Miare,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-3",
+      "noteId": "jun-route-3-2",
+      "label": "f,f,2,B,Miare,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-3",
+      "noteId": "jun-route-3-3",
+      "label": "f,f,2,B,Miare,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-3",
+      "noteId": "jun-route-3-4",
+      "label": "f,f,2,B,1+2,Miare",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "jun",
+      "comboId": "jun-route-3",
+      "noteId": "jun-route-3-7",
+      "label": ",Genjitsu,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-1",
+      "noteId": "paul-route-1-1",
+      "label": "d+1+2 W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "d+1",
+        "d+1+2"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-2",
+      "noteId": "paul-route-2-1",
+      "label": "d,1+2,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-2",
+      "noteId": "paul-route-2-2",
+      "label": "d,db,b,3,2,1,",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3",
+        "3,2",
+        "d,db,b"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-2",
+      "noteId": "paul-route-2-3",
+      "label": "~d,df,f,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2+3",
+        "H.1+2",
+        "H.1+2*",
+        "H.1+2**",
+        "H.qcf+2",
+        "H.f+1+2*",
+        "H.2+3",
+        "R.df+1+2",
+        "1",
+        "1,2",
+        "1,2,3",
+        "1,4",
+        "2",
+        "2,3",
+        "3",
+        "3,2",
+        "3,2~b",
+        "4",
+        "1+2",
+        "1+2*",
+        "1+2**",
+        "f+2",
+        "f+3",
+        "f+3,1",
+        "f+3,2",
+        "f+4",
+        "f+1+2",
+        "f+1+2*",
+        "f+1+4",
+        "f+3+4",
+        "df+1",
+        "df+1,1",
+        "df+1,1,2",
+        "df+1~b",
+        "df+2",
+        "df+3",
+        "df+3,4",
+        "df+4",
+        "df+3+4",
+        "d+1",
+        "d+1,2",
+        "d+1,2*",
+        "d+1,4",
+        "d+1,4,2",
+        "H.d+1,2",
+        "H.d+1,2*",
+        "d+2",
+        "d+4",
+        "d+4,2",
+        "d+4,2,1+2",
+        "d+4,2:1+2",
+        "d+1+2",
+        "db+1",
+        "db+2",
+        "db+3",
+        "db+4",
+        "db+1+2",
+        "b+1",
+        "b+1,2",
+        "b+1+3",
+        "b+2",
+        "b+2,1",
+        "b+2,1*",
+        "H.b+2,1*",
+        "b+3",
+        "b+4",
+        "b+1+2",
+        "b+3+4",
+        "ub+2",
+        "ub+2*",
+        "uf+1",
+        "uf+2",
+        "uf+3",
+        "uf+3,4",
+        "uf+4",
+        "1+2+3+4",
+        "d,db,b",
+        "d,df",
+        "d,df,f",
+        "f,F+2",
+        "f,F+2,1",
+        "f,F+2,2",
+        "f,F+2:1",
+        "f,F+3",
+        "f,F+3,4",
+        "f,F+3,4,4",
+        "f,F+3,4,d+4",
+        "f,F+3,4,f+4",
+        "f,F+4",
+        "uf,n,4",
+        "f,f,F+2",
+        "ws1",
+        "ws1,2",
+        "ws1,2~b",
+        "ws2",
+        "ws3",
+        "ws3,2",
+        "ws4",
+        "SS.1",
+        "SS.3",
+        "FC.D",
+        "FC.D,U+4",
+        "CD.df",
+        "qcf+1",
+        "qcf+2",
+        "qcf+3",
+        "qcf+1+2",
+        "qcf+3+4",
+        "DPD.df+1",
+        "DPD.df+2",
+        "DPD.df+2,1",
+        "DPD.df+2,3",
+        "DPD.df+4",
+        "DPD.df+3+4",
+        "OTG.d+2",
+        "qcb+1",
+        "qcb+2",
+        "qcb+3",
+        "qcb+3,2",
+        "qcb+3,2,1",
+        "qcb+3,2,3",
+        "qcb+4",
+        "qcb+1+2",
+        "H.f,F+2,1+2",
+        "1+3",
+        "2+4",
+        "2+4~b",
+        "Back Throw.1+3",
+        "Back Throw.2+4",
+        "Left Throw",
+        "Right Throw",
+        "b+1+4",
+        "df+1+3",
+        "H.df+1+3,qcf+2",
+        "df+1+3,qcf+2",
+        "df+1+3:H.qcf+2",
+        "df+1+3:qcf+2",
+        "f,F+1+2",
+        "hFC.1+2",
+        "hFC.1+2,2,1,2,1",
+        "hFC.1+2,2,d+1,1,1+2",
+        "hFC.1+2,1+2,1+2",
+        "uf+1+2"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-3",
+      "noteId": "paul-route-3-1",
+      "label": "d,db,b,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "d,db,b"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-3",
+      "noteId": "paul-route-3-5",
+      "label": "WS,1,2,B~df",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-3",
+      "noteId": "paul-route-3-6",
+      "label": "Deep Dive,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "paul",
+      "comboId": "paul-route-3",
+      "noteId": "paul-route-3-7",
+      "label": "df,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-1",
+      "noteId": "law-route-1-2",
+      "label": "4,uf+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "f+3",
+        "uf+3"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-1",
+      "noteId": "law-route-1-5",
+      "label": "ff+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-1",
+      "noteId": "law-route-1-11",
+      "label": "df+1,2 W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "df+1",
+        "df+1,2"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-1",
+      "noteId": "law-route-1-12",
+      "label": "Heat Smash WBl!",
+      "status": "not-found"
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-2",
+      "noteId": "law-route-2-1",
+      "label": "d,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-2",
+      "noteId": "law-route-2-2",
+      "label": "4,uf,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-2",
+      "noteId": "law-route-2-4",
+      "label": "df,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-2",
+      "noteId": "law-route-2-8",
+      "label": "df,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-2",
+      "noteId": "law-route-2-11",
+      "label": "df,1,2,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-2",
+      "noteId": "law-route-2-12",
+      "label": "Heat Smash,WBl!",
+      "status": "not-found"
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-2",
+      "noteId": "law-route-2-13",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-3",
+      "noteId": "law-route-3-1",
+      "label": "b,2,3,4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-3",
+      "noteId": "law-route-3-4",
+      "label": "4,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "law",
+      "comboId": "law-route-3",
+      "noteId": "law-route-3-7",
+      "label": "4,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-1",
+      "noteId": "jack-8-route-1-2",
+      "label": "f+3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2",
+        "df+3,2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-1",
+      "noteId": "jack-8-route-1-4",
+      "label": "f+1,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "f+1",
+        "f+1,1"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-1",
+      "noteId": "jack-8-route-1-6",
+      "label": "ff+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-2",
+      "noteId": "jack-8-route-2-1",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-2",
+      "noteId": "jack-8-route-2-2",
+      "label": "u,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-2",
+      "noteId": "jack-8-route-2-3",
+      "label": "b,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-2",
+      "noteId": "jack-8-route-2-4",
+      "label": "df,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-2",
+      "noteId": "jack-8-route-2-9",
+      "label": "b,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-2",
+      "noteId": "jack-8-route-2-10",
+      "label": "df,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-3",
+      "noteId": "jack-8-route-3-3",
+      "label": "b,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-3",
+      "noteId": "jack-8-route-3-4",
+      "label": "df,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-3",
+      "noteId": "jack-8-route-3-9",
+      "label": "b,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "jack-8",
+      "comboId": "jack-8-route-3",
+      "noteId": "jack-8-route-3-10",
+      "label": "df,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-1",
+      "label": "During Heat ff+1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "f+1",
+        "f+1+2"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-2",
+      "label": "fff+1,B",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "f+1"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-4",
+      "label": "df+3,D",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3",
+        "df+3"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-8",
+      "label": "db+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "db+2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-9",
+      "label": "SEN 1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-10",
+      "label": "dash SSL",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-11",
+      "label": "df+1,1,D",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "f+1",
+        "df+1",
+        "df+1,1"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-1",
+      "noteId": "lars-route-1-15",
+      "label": "df+3,D",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3",
+        "df+3"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-2",
+      "noteId": "lars-route-2-5",
+      "label": "1,1,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "1,1,1"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-3",
+      "noteId": "lars-route-3-2",
+      "label": "WS,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1,4",
+        "4",
+        "f+2,4",
+        "b+3,4",
+        "uf+3+4,4",
+        "uf,n,4"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-3",
+      "noteId": "lars-route-3-3",
+      "label": "db,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-3",
+      "noteId": "lars-route-3-5",
+      "label": "1,1,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "1,1,1"
+      ]
+    },
+    {
+      "characterId": "lars",
+      "comboId": "lars-route-3",
+      "noteId": "lars-route-3-7",
+      "label": "d,3,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-1",
+      "noteId": "xiaoyu-route-1-2",
+      "label": "uf+3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "f+3",
+        "uf+3",
+        "AOP.uf+3,4"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-1",
+      "noteId": "xiaoyu-route-1-11",
+      "label": "ff+3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "f+3",
+        "f+3+4"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-2",
+      "noteId": "xiaoyu-route-2-2",
+      "label": "uf,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-2",
+      "noteId": "xiaoyu-route-2-4",
+      "label": "uf",
+      "status": "ambiguous",
+      "candidates": [
+        "uf+1",
+        "uf+2",
+        "uf+3",
+        "uf+4",
+        "uf+3+4",
+        "uf,n,4",
+        "AOP.uf",
+        "AOP.uf+3",
+        "AOP.uf+3,1",
+        "AOP.uf+3,4",
+        "AOP.uf+4",
+        "AOP.uf+4,4",
+        "BT.uf+1",
+        "uf+1+2"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-3",
+      "noteId": "xiaoyu-route-3-1",
+      "label": "b,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-3",
+      "noteId": "xiaoyu-route-3-4",
+      "label": "f,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-3",
+      "noteId": "xiaoyu-route-3-5",
+      "label": "BT,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "H.f+2,1,2",
+        "u+4,1,2"
+      ]
+    },
+    {
+      "characterId": "xiaoyu",
+      "comboId": "xiaoyu-route-3",
+      "noteId": "xiaoyu-route-3-8",
+      "label": "WS,4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+2,1,4",
+        "f+3,1,4",
+        "d+3,4",
+        "f,F+1,4",
+        "uf,n,4",
+        "ws1,4",
+        "FC.df+4,4",
+        "AOP.1,4",
+        "AOP.f+4,4",
+        "AOP.uf+3,4",
+        "AOP.uf+4,4",
+        "BT.2,1,4",
+        "BT.1+2,4",
+        "BT.d+3,4",
+        "hFC.3,2,1,4"
+      ]
+    },
+    {
+      "characterId": "nina",
+      "comboId": "nina-route-3",
+      "noteId": "nina-route-3-1",
+      "label": "db,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "nina",
+      "comboId": "nina-route-3",
+      "noteId": "nina-route-3-3",
+      "label": "df,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "nina",
+      "comboId": "nina-route-3",
+      "noteId": "nina-route-3-4",
+      "label": "f,2,1,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "nina",
+      "comboId": "nina-route-3",
+      "noteId": "nina-route-3-6",
+      "label": "d,df,f,4,3,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "4,3",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leroy",
+      "comboId": "leroy-route-2",
+      "noteId": "leroy-route-2-1",
+      "label": "df,2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leroy",
+      "comboId": "leroy-route-2",
+      "noteId": "leroy-route-2-4",
+      "label": "f,3,1+2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leroy",
+      "comboId": "leroy-route-2",
+      "noteId": "leroy-route-2-6",
+      "label": "f,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "leroy",
+      "comboId": "leroy-route-3",
+      "noteId": "leroy-route-3-1",
+      "label": "WS,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1,2",
+        "1,2,1",
+        "1,2,3",
+        "1,2,4",
+        "2",
+        "2,1,2",
+        "2,1,2,1",
+        "2,2",
+        "df+1,1+2,2",
+        "d+1,2",
+        "d+1,2,4",
+        "d+3,2",
+        "db+1,2",
+        "f,F+2,2",
+        "f,F+4,2",
+        "HRM.1,2",
+        "HRM.b+3,2"
+      ]
+    },
+    {
+      "characterId": "leroy",
+      "comboId": "leroy-route-3",
+      "noteId": "leroy-route-3-4",
+      "label": "f,3,1+2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leroy",
+      "comboId": "leroy-route-3",
+      "noteId": "leroy-route-3-6",
+      "label": "b,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-1",
+      "noteId": "asuka-route-1-2",
+      "label": "ff+2,3 max",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-1",
+      "noteId": "asuka-route-1-4",
+      "label": "dash 1,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "1,2,3",
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-1",
+      "noteId": "asuka-route-1-5",
+      "label": "dash uf+1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "f+1",
+        "uf+1",
+        "uf+1,2"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-2",
+      "noteId": "asuka-route-2-2",
+      "label": "f,F,2,3*(max)",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-2",
+      "noteId": "asuka-route-2-3",
+      "label": "db,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-2",
+      "noteId": "asuka-route-2-4",
+      "label": "Dash,(1),2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-2",
+      "noteId": "asuka-route-2-5",
+      "label": "Dash,uf,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-2",
+      "noteId": "asuka-route-2-7",
+      "label": "2+3,During Heat",
+      "status": "ambiguous",
+      "candidates": [
+        "2+3",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-3",
+      "noteId": "asuka-route-3-2",
+      "label": "f,F,2,3*",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-3",
+      "noteId": "asuka-route-3-3",
+      "label": "db,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-3",
+      "noteId": "asuka-route-3-4",
+      "label": "Dash,1,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "1,2,3",
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "asuka",
+      "comboId": "asuka-route-3",
+      "noteId": "asuka-route-3-5",
+      "label": "Dash,uf,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-1",
+      "noteId": "lili-route-1-6",
+      "label": "ff+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-1",
+      "noteId": "lili-route-1-7",
+      "label": "Dew Glide 1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-2",
+      "noteId": "lili-route-2-1",
+      "label": "d,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-2",
+      "noteId": "lili-route-2-3",
+      "label": "f,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-2",
+      "noteId": "lili-route-2-5",
+      "label": "Dew Glide,u,N,f,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-2",
+      "noteId": "lili-route-2-6",
+      "label": "f,F,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-2",
+      "noteId": "lili-route-2-7",
+      "label": "WB!",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-3",
+      "noteId": "lili-route-3-1",
+      "label": "BT,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "b+2,1,1+2"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-3",
+      "noteId": "lili-route-3-3",
+      "label": "WS,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1,2",
+        "1,2,3",
+        "1,2,4",
+        "H.1,2,4",
+        "2",
+        "3,2",
+        "3,2,3",
+        "d+1,2",
+        "d+1,2,4",
+        "d+2,2",
+        "d+2,2,3",
+        "d+2,2,4",
+        "ws1,2",
+        "ws1,2,4",
+        "BT.1,2",
+        "DEW.1,2"
+      ]
+    },
+    {
+      "characterId": "lili",
+      "comboId": "lili-route-3",
+      "noteId": "lili-route-3-7",
+      "label": "Dew Glide,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-1",
+      "noteId": "bryan-route-1-2",
+      "label": "dash b+2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "b+2",
+        "b+2,4"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-1",
+      "noteId": "bryan-route-1-4",
+      "label": "b+2,1,F+2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "f+2",
+        "f+2,1",
+        "b+2",
+        "b+2,1"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-1",
+      "noteId": "bryan-route-1-7",
+      "label": "uf+2,2,2,2,1,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3",
+        "f+2",
+        "uf+2",
+        "uf+2,2",
+        "uf+2,2,2"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-2",
+      "noteId": "bryan-route-2-1",
+      "label": "d,db,b,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "d,db,b"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-2",
+      "noteId": "bryan-route-2-2",
+      "label": "Dash,b,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-2",
+      "noteId": "bryan-route-2-4",
+      "label": "b,2,1,F,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-2",
+      "noteId": "bryan-route-2-5",
+      "label": "Heat Burst,1+2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "1+2,2"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-2",
+      "noteId": "bryan-route-2-6",
+      "label": "uf,2,2,2,2,1,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-3",
+      "noteId": "bryan-route-3-1",
+      "label": "d,db,b,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "d,db,b"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-3",
+      "noteId": "bryan-route-3-2",
+      "label": "Dash,b,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-3",
+      "noteId": "bryan-route-3-4",
+      "label": "b,2,1,F,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-3",
+      "noteId": "bryan-route-3-5",
+      "label": "Heat Burst,1+2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "1+2,2"
+      ]
+    },
+    {
+      "characterId": "bryan",
+      "comboId": "bryan-route-3",
+      "noteId": "bryan-route-3-6",
+      "label": "uf,2,2,2,2,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-1",
+      "noteId": "hwoarang-route-1-5",
+      "label": "LFS uf+4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4",
+        "uf+4"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-1",
+      "noteId": "hwoarang-route-1-8",
+      "label": "RFF f+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-2",
+      "noteId": "hwoarang-route-2-1",
+      "label": "u,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-2",
+      "noteId": "hwoarang-route-2-2",
+      "label": "df,1,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-2",
+      "noteId": "hwoarang-route-2-4",
+      "label": "uf,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-3",
+      "noteId": "hwoarang-route-3-4",
+      "label": "4,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-3",
+      "noteId": "hwoarang-route-3-5",
+      "label": "uf,3+4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-3",
+      "noteId": "hwoarang-route-3-8",
+      "label": "d,4,4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "4,4"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-3",
+      "noteId": "hwoarang-route-3-10",
+      "label": "f,N,d,df,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "hwoarang",
+      "comboId": "hwoarang-route-3",
+      "noteId": "hwoarang-route-3-12",
+      "label": "Left Flamingo,3,f,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-1",
+      "noteId": "claudio-route-1-3",
+      "label": "ff+4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-2",
+      "noteId": "claudio-route-2-1",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-2",
+      "noteId": "claudio-route-2-2",
+      "label": "db,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-2",
+      "noteId": "claudio-route-2-5",
+      "label": "df,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-2",
+      "noteId": "claudio-route-2-8",
+      "label": "df,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-2",
+      "noteId": "claudio-route-2-9",
+      "label": "uf,3+4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-3",
+      "noteId": "claudio-route-3-1",
+      "label": "df,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-3",
+      "noteId": "claudio-route-3-4",
+      "label": "df,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-3",
+      "noteId": "claudio-route-3-7",
+      "label": "b,4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-3",
+      "noteId": "claudio-route-3-9",
+      "label": "df,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "claudio",
+      "comboId": "claudio-route-3",
+      "noteId": "claudio-route-3-10",
+      "label": "uf,3+4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-1",
+      "noteId": "azucena-route-1-1",
+      "label": "During Heat f+4,4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4",
+        "f+4,4"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-1",
+      "noteId": "azucena-route-1-6",
+      "label": "LIB 4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "4,1"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-1",
+      "noteId": "azucena-route-1-8",
+      "label": "d+2,3 W!",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "d+2",
+        "d+2,3"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-1",
+      "noteId": "azucena-route-1-9",
+      "label": "LIB d+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "d+3"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-2",
+      "noteId": "azucena-route-2-2",
+      "label": "WS,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,3",
+        "4,3",
+        "d+2,3",
+        "d+3,3",
+        "d+3,3,4",
+        "b+4,3",
+        "b+4,3,4",
+        "b+4,3,4,3",
+        "1+2+3+4,3+4",
+        "ws4,1,3",
+        "BT.4,3"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-2",
+      "noteId": "azucena-route-2-4",
+      "label": "BT,4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+2,1,4",
+        "f+3,4",
+        "f+4,4",
+        "f+4,4~2",
+        "f+4,4~3",
+        "df+1,4",
+        "df+1,4,1",
+        "df+1,4,1~2",
+        "d+3,3,4",
+        "db+3,4",
+        "b+4,3,4",
+        "b+4,3,4,3",
+        "uf+3,4",
+        "BT.1,4",
+        "LIB.d+4,4"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-2",
+      "noteId": "azucena-route-2-6",
+      "label": "Libertador,4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "4,1"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-2",
+      "noteId": "azucena-route-2-8",
+      "label": "d,2,3,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-3",
+      "noteId": "azucena-route-3-1",
+      "label": "uf,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-3",
+      "noteId": "azucena-route-3-3",
+      "label": "d,4,1~2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "4,1"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-3",
+      "noteId": "azucena-route-3-5",
+      "label": "db,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "azucena",
+      "comboId": "azucena-route-3",
+      "noteId": "azucena-route-3-7",
+      "label": "f,2,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-1",
+      "noteId": "raven-route-1-1",
+      "label": "ff+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-1",
+      "noteId": "raven-route-1-2",
+      "label": "ff+4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-1",
+      "noteId": "raven-route-1-8",
+      "label": "Soulzone 1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-1",
+      "noteId": "raven-route-1-13",
+      "label": "BT 4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "3~4,F",
+        "4",
+        "BT.3,4,4,F",
+        "BT.f+3+4,F"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-2",
+      "noteId": "raven-route-2-4",
+      "label": "BT,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "b+4,B+4~3,3+4",
+        "uf+3+4,3+4",
+        "UB,b,3+4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-2",
+      "noteId": "raven-route-2-6",
+      "label": "b,2,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-2",
+      "noteId": "raven-route-2-8",
+      "label": "Soulzone,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-2",
+      "noteId": "raven-route-2-11",
+      "label": "b,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "UB,b,3+4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-2",
+      "noteId": "raven-route-2-12",
+      "label": "BT,b,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "UB,b,3+4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-2",
+      "noteId": "raven-route-2-13",
+      "label": "BT,4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "BT.3,4,4,F"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-2",
+      "noteId": "raven-route-2-14",
+      "label": "b,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-3",
+      "noteId": "raven-route-3-4",
+      "label": "BT,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "b+4,B+4~3,3+4",
+        "uf+3+4,3+4",
+        "UB,b,3+4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-3",
+      "noteId": "raven-route-3-6",
+      "label": "b,2,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "raven",
+      "comboId": "raven-route-3",
+      "noteId": "raven-route-3-7",
+      "label": "d,df,f,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-1",
+      "noteId": "leo-route-1-1",
+      "label": "d+1+2,Fo Bu 2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "d+1",
+        "d+1+2"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-1",
+      "noteId": "leo-route-1-4",
+      "label": "f+4,Jin Ji Du Li 1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "1+2",
+        "f+4"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-1",
+      "noteId": "leo-route-1-5",
+      "label": "f+4,Jin Ji Du Li df+4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "f+4",
+        "df+4"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-2",
+      "noteId": "leo-route-2-1",
+      "label": "d,1+2,Fo Bu,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-2",
+      "noteId": "leo-route-2-3",
+      "label": "b,1,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-2",
+      "noteId": "leo-route-2-4",
+      "label": "f,4,Jin Ji Du Li,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-2",
+      "noteId": "leo-route-2-5",
+      "label": "f,4,Jin Ji Du Li,df,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-3",
+      "noteId": "leo-route-3-2",
+      "label": "b,1,1+2,d",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-3",
+      "noteId": "leo-route-3-4",
+      "label": "Jin Ji Du Li,1,4,d",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-3",
+      "noteId": "leo-route-3-7",
+      "label": "Dash,b,1,4,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-3",
+      "noteId": "leo-route-3-8",
+      "label": "Jin Ji Du Li,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "leo",
+      "comboId": "leo-route-3",
+      "noteId": "leo-route-3-9",
+      "label": "WS,1,4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-pab-df2-beginner",
+      "noteId": "steve-pab-df2-beginner-1",
+      "label": "PAB f+1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "f+1+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-u2-fc-df2-beginner",
+      "noteId": "steve-u2-fc-df2-beginner-7",
+      "label": "DCK f+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-rage-art-route",
+      "noteId": "steve-rage-art-route-11",
+      "label": "df+1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "R.df+1+2",
+        "1",
+        "2",
+        "1+2",
+        "f+1+2",
+        "df+1"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-1",
+      "noteId": "steve-route-1-2",
+      "label": "DCK,f+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-1",
+      "noteId": "steve-route-1-9",
+      "label": "iWR",
+      "status": "not-found"
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-1",
+      "noteId": "steve-route-1-11",
+      "label": "SSL,DCKL,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-1",
+      "noteId": "steve-route-1-12",
+      "label": "1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-1",
+      "noteId": "steve-route-1-13",
+      "label": "DCK,1+2,1+2,1+2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-2",
+      "noteId": "steve-route-2-4",
+      "label": "FLK,b+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-2",
+      "noteId": "steve-route-2-8",
+      "label": "DCKL,1,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-1",
+      "label": "DCK,f+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-2",
+      "label": "DCKL,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-5",
+      "label": "FLK,b+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-6",
+      "label": "iWR",
+      "status": "not-found"
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-7",
+      "label": "1+2,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-10",
+      "label": "DCKL,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-11",
+      "label": "1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "steve",
+      "comboId": "steve-route-3",
+      "noteId": "steve-route-3-12",
+      "label": "DCK,1+2,1+2,1+2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-1",
+      "noteId": "kuma-route-1-1",
+      "label": "f+2,1 W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "f+2",
+        "f+2,1"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-1",
+      "noteId": "kuma-route-1-2",
+      "label": "b,N,b",
+      "status": "not-found"
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-1",
+      "noteId": "kuma-route-1-3",
+      "label": "u+3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-2",
+      "noteId": "kuma-route-2-1",
+      "label": "f,2,1,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-2",
+      "noteId": "kuma-route-2-2",
+      "label": "b,N,b",
+      "status": "not-found"
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-2",
+      "noteId": "kuma-route-2-3",
+      "label": "u,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-2",
+      "noteId": "kuma-route-2-4",
+      "label": "b,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-2",
+      "noteId": "kuma-route-2-5",
+      "label": "df,1,2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-2",
+      "noteId": "kuma-route-2-6",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-3",
+      "noteId": "kuma-route-3-4",
+      "label": "b,2,1,D",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "kuma",
+      "comboId": "kuma-route-3",
+      "noteId": "kuma-route-3-5",
+      "label": "Hunting,d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-1",
+      "noteId": "yoshimitsu-route-1-1",
+      "label": "KIN b+2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "b+2",
+        "b+2,1"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-1",
+      "noteId": "yoshimitsu-route-1-2",
+      "label": "d+2,2,b~Mutou No Kiwami 1",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2",
+        "d+2",
+        "d+2,2"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-2",
+      "noteId": "yoshimitsu-route-2-1",
+      "label": "Kincho,b,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-2",
+      "noteId": "yoshimitsu-route-2-2",
+      "label": "d,2,2,b,Mutou No Kiwami,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-2",
+      "noteId": "yoshimitsu-route-2-3",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-2",
+      "noteId": "yoshimitsu-route-2-4",
+      "label": "d,2,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-2",
+      "noteId": "yoshimitsu-route-2-5",
+      "label": "f,f",
+      "status": "ambiguous",
+      "candidates": [
+        "f,F+2",
+        "f,F+2:2",
+        "f,F+3",
+        "f,F+4",
+        "f,F+1+2",
+        "f,F+1+4",
+        "f,F+1+4,F",
+        "f,F+1+4,n",
+        "f,F+3+4",
+        "f,F+3+4,1+2",
+        "f,F+3+4,1+2,3+4",
+        "f,f,F+3",
+        "FLE.f,f"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-2",
+      "noteId": "yoshimitsu-route-2-6",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-2",
+      "noteId": "yoshimitsu-route-2-7",
+      "label": "f,3+4,Heat Burst,1+4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3",
+        "4",
+        "1+4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-3",
+      "noteId": "yoshimitsu-route-3-1",
+      "label": "b,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-3",
+      "noteId": "yoshimitsu-route-3-4",
+      "label": "d,2,2,B",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-3",
+      "noteId": "yoshimitsu-route-3-5",
+      "label": "df,1,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-3",
+      "noteId": "yoshimitsu-route-3-10",
+      "label": "F!",
+      "status": "not-found"
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-3",
+      "noteId": "yoshimitsu-route-3-11",
+      "label": "f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "yoshimitsu",
+      "comboId": "yoshimitsu-route-3",
+      "noteId": "yoshimitsu-route-3-12",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "shaheen",
+      "comboId": "shaheen-route-1",
+      "noteId": "shaheen-route-1-5",
+      "label": "ff+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "shaheen",
+      "comboId": "shaheen-route-1",
+      "noteId": "shaheen-route-1-7",
+      "label": "db+2,D/F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "db+2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "shaheen",
+      "comboId": "shaheen-route-2",
+      "noteId": "shaheen-route-2-1",
+      "label": "WS,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1,2",
+        "1,2,2",
+        "1,2,3",
+        "1,2,4",
+        "2",
+        "SNK.df+1,2"
+      ]
+    },
+    {
+      "characterId": "shaheen",
+      "comboId": "shaheen-route-2",
+      "noteId": "shaheen-route-2-4",
+      "label": "f,2,4,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "4,4"
+      ]
+    },
+    {
+      "characterId": "shaheen",
+      "comboId": "shaheen-route-3",
+      "noteId": "shaheen-route-3-4",
+      "label": "f,2,4,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "4,4"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-1",
+      "noteId": "dragunov-route-1-1",
+      "label": "SNK 2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "SNK"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-1",
+      "noteId": "dragunov-route-1-2",
+      "label": "SNK 3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "SNK"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-1",
+      "noteId": "dragunov-route-1-4",
+      "label": "df+1,4,SNK 2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "df+1",
+        "df+1,4",
+        "SNK"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-2",
+      "noteId": "dragunov-route-2-2",
+      "label": "Sneak,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-2",
+      "noteId": "dragunov-route-2-4",
+      "label": "df,1,4,Sneak,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-2",
+      "noteId": "dragunov-route-2-5",
+      "label": "f,3,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3",
+        "3,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-3",
+      "noteId": "dragunov-route-3-2",
+      "label": "d,df,f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-3",
+      "noteId": "dragunov-route-3-4",
+      "label": "FC,df,1:4,Sneak,u,N,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-3",
+      "noteId": "dragunov-route-3-6",
+      "label": "df,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-3",
+      "noteId": "dragunov-route-3-8",
+      "label": "f,3,df,Sneak,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-3",
+      "noteId": "dragunov-route-3-9",
+      "label": "Dash,FC,df,1:4,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "dragunov",
+      "comboId": "dragunov-route-3",
+      "noteId": "dragunov-route-3-10",
+      "label": "d,3,2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "3",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-1",
+      "noteId": "feng-route-1-4",
+      "label": "b+4,2,D/F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "b+4",
+        "b+4,2"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-2",
+      "noteId": "feng-route-2-1",
+      "label": "f,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-2",
+      "noteId": "feng-route-2-2",
+      "label": "df,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-2",
+      "noteId": "feng-route-2-3",
+      "label": "df,4,2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-2",
+      "noteId": "feng-route-2-4",
+      "label": "b,4,2,df",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-3",
+      "noteId": "feng-route-3-1",
+      "label": "f,f,4:3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-3",
+      "noteId": "feng-route-3-4",
+      "label": "b,4,2,df",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-3",
+      "noteId": "feng-route-3-8",
+      "label": "2+3,(Heat Burst)",
+      "status": "ambiguous",
+      "candidates": [
+        "2+3",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-3",
+      "noteId": "feng-route-3-12",
+      "label": "b,4,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "feng",
+      "comboId": "feng-route-3",
+      "noteId": "feng-route-3-13",
+      "label": "3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "H.3+4",
+        "1+3+4",
+        "3",
+        "4",
+        "f+3+4",
+        "df+3+4",
+        "d+3+4",
+        "db+1,2,4,3+4",
+        "H.b+4,3+4",
+        "b+3+4",
+        "uf+3+4",
+        "uf+3+4,3",
+        "1+2+3+4",
+        "FUFT.b+3+4",
+        "KNP.3+4",
+        "KNP.3+4,3+4",
+        "OTG.d+3+4"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-1",
+      "noteId": "panda-route-1-2",
+      "label": "b+2,1,D",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "b+2",
+        "b+2,1"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-1",
+      "noteId": "panda-route-1-3",
+      "label": "HBS d+1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "d+1",
+        "d+1+2"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-1",
+      "noteId": "panda-route-1-4",
+      "label": "HBS df+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2",
+        "df+2"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-1",
+      "noteId": "panda-route-1-5",
+      "label": "dash u+3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "3+4",
+        "u+3+4"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-2",
+      "noteId": "panda-route-2-3",
+      "label": "2,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "b+2,2,1"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-3",
+      "noteId": "panda-route-3-2",
+      "label": "b,2,1,D",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-3",
+      "noteId": "panda-route-3-3",
+      "label": "Hunting,d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "panda",
+      "comboId": "panda-route-3",
+      "noteId": "panda-route-3-5",
+      "label": "Dash,u,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-1",
+      "label": "b+4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3",
+        "b+4"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-2",
+      "label": "HMS f",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-4",
+      "label": "b+2,4,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4",
+        "4,3",
+        "b+2",
+        "b+2,4",
+        "b+2,4,3"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-5",
+      "label": "b+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-6",
+      "label": "b+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-8",
+      "label": "b+1:1+2 W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "b+1",
+        "b+1:1",
+        "b+1:1+2"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-9",
+      "label": "dash df+1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "df+1"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-11",
+      "label": "d+1+2 WBl!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-12",
+      "label": "ff+3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-1",
+      "noteId": "lee-route-1-13",
+      "label": "ff+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-2",
+      "noteId": "lee-route-2-1",
+      "label": "f,N,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "f,n"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-2",
+      "noteId": "lee-route-2-6",
+      "label": "3,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-3",
+      "noteId": "lee-route-3-1",
+      "label": "b,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-3",
+      "noteId": "lee-route-3-2",
+      "label": "Hitman,f",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-3",
+      "noteId": "lee-route-3-3",
+      "label": "4,u,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-3",
+      "noteId": "lee-route-3-4",
+      "label": "b,2,4,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-3",
+      "noteId": "lee-route-3-8",
+      "label": "b,1:1+2,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-3",
+      "noteId": "lee-route-3-10",
+      "label": "f,4:1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "lee",
+      "comboId": "lee-route-3",
+      "noteId": "lee-route-3-11",
+      "label": "d,1+2,WBl!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-1",
+      "noteId": "alisa-route-1-1",
+      "label": "WS+1,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "2,3",
+        "3",
+        "ws1,2,3"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-1",
+      "noteId": "alisa-route-1-2",
+      "label": "u+1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "u+1+2"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-1",
+      "noteId": "alisa-route-1-3",
+      "label": "dash f+4,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "f+4",
+        "f+4,1",
+        "f+4,1,4"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-2",
+      "noteId": "alisa-route-2-1",
+      "label": "During Heat F+2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "f+2",
+        "f+2,1"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-2",
+      "noteId": "alisa-route-2-4",
+      "label": "u+1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "u+1+2"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-2",
+      "noteId": "alisa-route-2-5",
+      "label": "d+3,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3",
+        "d+3",
+        "DES.d+3,1"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-2",
+      "noteId": "alisa-route-2-6",
+      "label": "f+3,f+1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-3",
+      "noteId": "alisa-route-3-1",
+      "label": "WS,1,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "alisa",
+      "comboId": "alisa-route-3",
+      "noteId": "alisa-route-3-3",
+      "label": "Dash,f,4,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-1",
+      "noteId": "zafina-route-1-2",
+      "label": "db+3,B",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "db+3",
+        "b+3"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-1",
+      "noteId": "zafina-route-1-4",
+      "label": "f+2,3 SCR",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "f+2",
+        "f+2,3"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-1",
+      "noteId": "zafina-route-1-7",
+      "label": "b+1:1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "b+1",
+        "b+1:1"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-2",
+      "noteId": "zafina-route-2-1",
+      "label": "(1+2,4),4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "1+2",
+        "1+2,4"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-2",
+      "noteId": "zafina-route-2-4",
+      "label": "f,2,3,Scarecrow Stance",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-2",
+      "noteId": "zafina-route-2-7",
+      "label": "b,1:1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-3",
+      "noteId": "zafina-route-3-1",
+      "label": "Mantis Stance,(3),1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-3",
+      "noteId": "zafina-route-3-2",
+      "label": "3,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3",
+        "f,F+3,1",
+        "MNT.3,1"
+      ]
+    },
+    {
+      "characterId": "zafina",
+      "comboId": "zafina-route-3",
+      "noteId": "zafina-route-3-3",
+      "label": "4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "d+2,4,3",
+        "d+4,3",
+        "MNT.4,3",
+        "TRT.4,3"
+      ]
+    },
+    {
+      "characterId": "devil-jin",
+      "comboId": "devil-jin-route-1",
+      "noteId": "devil-jin-route-1-1",
+      "label": "EWGF",
+      "status": "not-found"
+    },
+    {
+      "characterId": "devil-jin",
+      "comboId": "devil-jin-route-1",
+      "noteId": "devil-jin-route-1-4",
+      "label": "u+4,U",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "u+4"
+      ]
+    },
+    {
+      "characterId": "devil-jin",
+      "comboId": "devil-jin-route-2",
+      "noteId": "devil-jin-route-2-3",
+      "label": "uf+1,MCR 3",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3",
+        "uf+1"
+      ]
+    },
+    {
+      "characterId": "devil-jin",
+      "comboId": "devil-jin-route-2",
+      "noteId": "devil-jin-route-2-4",
+      "label": "uf+1,MCR 4,2,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "1+2",
+        "uf+1"
+      ]
+    },
+    {
+      "characterId": "devil-jin",
+      "comboId": "devil-jin-route-3",
+      "noteId": "devil-jin-route-3-1",
+      "label": "EWGF",
+      "status": "not-found"
+    },
+    {
+      "characterId": "devil-jin",
+      "comboId": "devil-jin-route-3",
+      "noteId": "devil-jin-route-3-3",
+      "label": "f,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-1",
+      "noteId": "victor-route-1-1",
+      "label": "ff+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-1",
+      "noteId": "victor-route-1-2",
+      "label": "ff+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-1",
+      "noteId": "victor-route-1-4",
+      "label": "IAI 1,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-1",
+      "noteId": "victor-route-1-5",
+      "label": "PERF 2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-1",
+      "noteId": "victor-route-1-6",
+      "label": "IAI 4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-1",
+      "noteId": "victor-route-1-7",
+      "label": "db+1,1,F~PERF",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "db+1",
+        "db+1,1",
+        "b+1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-1",
+      "noteId": "victor-route-1-9",
+      "label": "f+1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "f+1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-2",
+      "noteId": "victor-route-2-4",
+      "label": "Iai Stance,1,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-2",
+      "noteId": "victor-route-2-5",
+      "label": "Perfumer,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-2",
+      "noteId": "victor-route-2-6",
+      "label": "Iai Stance,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-2",
+      "noteId": "victor-route-2-7",
+      "label": "db,1,1,F,Perfumer,Heat Burst",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-2",
+      "noteId": "victor-route-2-8",
+      "label": "f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-2",
+      "noteId": "victor-route-2-9",
+      "label": "u,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-2",
+      "label": "df,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-4",
+      "label": "SSR,2,1,f",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-5",
+      "label": "Perfumer,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-6",
+      "label": "Iai Stance,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-7",
+      "label": "db,1,1,f",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-8",
+      "label": "Perfumer,Heat Burst",
+      "status": "not-found"
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-9",
+      "label": "f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-3",
+      "noteId": "victor-route-3-10",
+      "label": "u,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-4",
+      "noteId": "victor-route-4-2",
+      "label": "df,4,2,Iai Stance",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-4",
+      "noteId": "victor-route-4-3",
+      "label": "4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "f+4,2",
+        "df+3,4,2",
+        "df+4,2",
+        "IAI.4,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-4",
+      "noteId": "victor-route-4-4",
+      "label": "db,1,1,F,Perfumer",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-4",
+      "noteId": "victor-route-4-6",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-4",
+      "noteId": "victor-route-4-7",
+      "label": "b,3,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-1",
+      "label": "WS,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "1,1,2",
+        "1,2,1",
+        "2,1",
+        "3,1+2",
+        "f+2,2,1",
+        "f+2,2,1,1",
+        "f+4,1",
+        "df+1,1",
+        "d+1,1",
+        "db+1,1",
+        "b+3,1",
+        "uf+1,1",
+        "IAI.1,1",
+        "IAI.1,1+2",
+        "PRF.2,2,1",
+        "PRF.2,2,1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-2",
+      "label": "3+4,Iai Stance",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-3",
+      "label": "4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "f+4,2",
+        "df+3,4,2",
+        "df+4,2",
+        "IAI.4,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-4",
+      "label": "db,1,1,f",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-5",
+      "label": "Perfumer,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-6",
+      "label": "Iai Stance,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-7",
+      "label": "db,1,1,f",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-8",
+      "label": "Perfumer,Heat Burst",
+      "status": "not-found"
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-9",
+      "label": "db,1,1,f",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-5",
+      "noteId": "victor-route-5-11",
+      "label": "u,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-6",
+      "noteId": "victor-route-6-2",
+      "label": "df,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-6",
+      "noteId": "victor-route-6-3",
+      "label": "Iai Stance,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-6",
+      "noteId": "victor-route-6-4",
+      "label": "db,1,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-6",
+      "noteId": "victor-route-6-5",
+      "label": "Perfumer,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-6",
+      "noteId": "victor-route-6-7",
+      "label": "W!,f,2,2,1,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "2",
+        "2,1",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-7",
+      "noteId": "victor-route-7-2",
+      "label": "df,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-7",
+      "noteId": "victor-route-7-3",
+      "label": "Iai Stance,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-7",
+      "noteId": "victor-route-7-4",
+      "label": "db,1,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-7",
+      "noteId": "victor-route-7-5",
+      "label": "Perfumer,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-7",
+      "noteId": "victor-route-7-8",
+      "label": "f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-7",
+      "noteId": "victor-route-7-9",
+      "label": "u,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-8",
+      "noteId": "victor-route-8-2",
+      "label": "Iai Stance,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-8",
+      "noteId": "victor-route-8-3",
+      "label": "db,1,1,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-8",
+      "noteId": "victor-route-8-4",
+      "label": "Perfumer,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-8",
+      "noteId": "victor-route-8-5",
+      "label": "Iai Stance,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-8",
+      "noteId": "victor-route-8-7",
+      "label": "db,1,1,F,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "victor",
+      "comboId": "victor-route-8",
+      "noteId": "victor-route-8-8",
+      "label": "u,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-1",
+      "noteId": "reina-route-1-1",
+      "label": "f,N,df+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2",
+        "df+2",
+        "f,n"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-1",
+      "noteId": "reina-route-1-2",
+      "label": "f,N,df+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2",
+        "df+2",
+        "f,n"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-2",
+      "noteId": "reina-route-2-1",
+      "label": "f,N,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f,n"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-2",
+      "noteId": "reina-route-2-2",
+      "label": "f,N,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f,n"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-3",
+      "noteId": "reina-route-3-1",
+      "label": "EWGF,EWGF",
+      "status": "not-found"
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-3",
+      "noteId": "reina-route-3-2",
+      "label": "df,3,N,WS,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-3",
+      "noteId": "reina-route-3-5",
+      "label": "f,2,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-3",
+      "noteId": "reina-route-3-6",
+      "label": "df,1,F,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-3",
+      "noteId": "reina-route-3-7",
+      "label": "df",
+      "status": "ambiguous",
+      "candidates": [
+        "R.df+1+2",
+        "df+1",
+        "df+1,1",
+        "df+1,2",
+        "df+2",
+        "df+3",
+        "df+4",
+        "df+4,2",
+        "df+4,2,3",
+        "df+3+4",
+        "df+3+4,4",
+        "f,n,d,df:2",
+        "f,n,d,df:3",
+        "FC.df+3",
+        "FC.df+4",
+        "CH.df+3+4",
+        "WGS.DF+4",
+        "WGS.DF+4,2",
+        "WGS.DF+4,4",
+        "WGS.df+3"
+      ]
+    },
+    {
+      "characterId": "reina",
+      "comboId": "reina-route-3",
+      "noteId": "reina-route-3-10",
+      "label": "d,4:1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-1",
+      "noteId": "eddy-route-1-3",
+      "label": "2,b+1,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "b+1"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-1",
+      "noteId": "eddy-route-1-4",
+      "label": "qcf+3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-1",
+      "noteId": "eddy-route-1-5",
+      "label": "db+3,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,3",
+        "db+3",
+        "b+3",
+        "b+3,3"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-2",
+      "noteId": "eddy-route-2-3",
+      "label": "Bananeira 3,3,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,3"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-2",
+      "noteId": "eddy-route-2-4",
+      "label": "Negativa 3,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,3"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-3",
+      "noteId": "eddy-route-3-2",
+      "label": "b,3,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,3"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-3",
+      "noteId": "eddy-route-3-3",
+      "label": "2,b,1,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "characterId": "eddy",
+      "comboId": "eddy-route-3",
+      "noteId": "eddy-route-3-5",
+      "label": "db,3,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,3"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-1",
+      "label": "SWS 1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "ws1"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-3",
+      "label": "HRS F",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-4",
+      "label": "SWS 2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "ws2"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-5",
+      "label": "ff+2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f+2"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-8",
+      "label": "SWS B",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-9",
+      "label": "df+4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3",
+        "f+4",
+        "f+4,3",
+        "df+4"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-11",
+      "label": "dash df+4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3",
+        "f+4",
+        "f+4,3",
+        "df+4"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-12",
+      "label": "dash Heat Burst",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-13",
+      "label": "dash 2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-14",
+      "label": "CAT U",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-1",
+      "noteId": "lidia-route-1-16",
+      "label": "d+1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "d+1",
+        "OTG.d+1+2"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-2",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-3",
+      "label": "Horse Stance,F",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-7",
+      "label": "d,df,f,1+2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-8",
+      "label": "Stalking Wolf Stance,B",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-9",
+      "label": "df,(4,3)",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-11",
+      "label": "Dash,df,(4,3)",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-12",
+      "label": "Dash,Heat Burst",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-13",
+      "label": "Dash,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-14",
+      "label": "Cat Stance,U",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-2",
+      "noteId": "lidia-route-2-16",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-3",
+      "noteId": "lidia-route-3-1",
+      "label": "3:2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-3",
+      "noteId": "lidia-route-3-2",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-3",
+      "noteId": "lidia-route-3-3",
+      "label": "Horse Stance,F",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-3",
+      "noteId": "lidia-route-3-5",
+      "label": "b,2:3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-3",
+      "noteId": "lidia-route-3-7",
+      "label": "f,F,4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-3",
+      "noteId": "lidia-route-3-11",
+      "label": "Cat Stance,U",
+      "status": "not-found"
+    },
+    {
+      "characterId": "lidia",
+      "comboId": "lidia-route-3",
+      "noteId": "lidia-route-3-13",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-1",
+      "noteId": "heihachi-route-1-2",
+      "label": "f+3,D",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-1",
+      "noteId": "heihachi-route-1-3",
+      "label": "WGK DF+4,4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "f+4",
+        "df+4"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-1",
+      "noteId": "heihachi-route-1-4",
+      "label": "f+3,D",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-2",
+      "noteId": "heihachi-route-2-1",
+      "label": "uf,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-2",
+      "noteId": "heihachi-route-2-3",
+      "label": "Wind God's Kamae,df,4,4,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-3",
+      "noteId": "heihachi-route-3-4",
+      "label": "b,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-3",
+      "noteId": "heihachi-route-3-5",
+      "label": "uf,3,4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "heihachi",
+      "comboId": "heihachi-route-3",
+      "noteId": "heihachi-route-3-6",
+      "label": "uf,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-1",
+      "label": "During Heat f+2,2,1 max",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "2,2",
+        "2,2,1",
+        "f+2",
+        "f+2,2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-2",
+      "label": "db+1+2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,2",
+        "1+2",
+        "db+1",
+        "db+1+2",
+        "b+1",
+        "b+1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-4",
+      "label": "u+1+2,1 W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-5",
+      "label": "u+1+2,1 WB!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-6",
+      "label": "df+1,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "df+1",
+        "df+1,2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-7",
+      "label": "Phoenix Shift 1+2 WB!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-8",
+      "label": "f+1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "f+1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-1",
+      "noteId": "clive-route-1-9",
+      "label": "Zantetsuken Lv.5 1+4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "1+4"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-1",
+      "label": "During Heat",
+      "status": "not-found"
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-2",
+      "label": "(f,2,2),1*(max)",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-3",
+      "label": "db,1+2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-5",
+      "label": "u,1+2,1,W!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-6",
+      "label": "u,1+2,1,WB!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-7",
+      "label": "df,1,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-8",
+      "label": "Phoenix Shift,1+2,WB!",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-9",
+      "label": "f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-2",
+      "noteId": "clive-route-2-10",
+      "label": "Zantetsuken Lv.5,1+4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "1+4"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-3",
+      "noteId": "clive-route-3-2",
+      "label": "db,1+2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-3",
+      "noteId": "clive-route-3-6",
+      "label": "u,1+2,1+2,f,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "2,2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "clive",
+      "comboId": "clive-route-3",
+      "noteId": "clive-route-3-9",
+      "label": "Zantetsuken Lv.5,1+4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4",
+        "1+4"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-1",
+      "noteId": "anna-route-1-1",
+      "label": "d,qcf+1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "qcf+1"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-1",
+      "noteId": "anna-route-1-4",
+      "label": "Hammer Chance 2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-1",
+      "noteId": "anna-route-1-6",
+      "label": "Hammer Chance 2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-1",
+      "noteId": "anna-route-1-9",
+      "label": "fff+3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-1",
+      "noteId": "anna-route-1-11",
+      "label": "ff+3,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2",
+        "f+3"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-1",
+      "noteId": "anna-route-1-12",
+      "label": "ff+1+2 max",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "f+1+2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-2",
+      "label": "WB!,Dash,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-3",
+      "label": "Hammer Chance,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-5",
+      "label": "Hammer Chance,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-6",
+      "label": "W!,f,f,F,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,4",
+        "4"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-8",
+      "label": "Hammer Chance,2,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-10",
+      "label": "Chaos Judgement,Heat Burst",
+      "status": "not-found"
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-11",
+      "label": "f,f,F,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-12",
+      "label": "W!,WB!",
+      "status": "not-found"
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-2",
+      "noteId": "anna-route-2-13",
+      "label": "Dash,Rage Art",
+      "status": "not-found"
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-3",
+      "noteId": "anna-route-3-4",
+      "label": "Hammer Chance,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-3",
+      "noteId": "anna-route-3-6",
+      "label": "Hammer Chance,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-3",
+      "noteId": "anna-route-3-9",
+      "label": "f,f,F,3,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-3",
+      "noteId": "anna-route-3-11",
+      "label": "f,F,3,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "anna",
+      "comboId": "anna-route-3",
+      "noteId": "anna-route-3-12",
+      "label": "f,F,1+2*(max)",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-1",
+      "noteId": "fahkumram-route-1-1",
+      "label": "db+2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3",
+        "db+2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-1",
+      "noteId": "fahkumram-route-1-2",
+      "label": "db+3~4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "db+3+4",
+        "b+3"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-1",
+      "noteId": "fahkumram-route-1-3",
+      "label": "f+1",
+      "status": "ambiguous",
+      "candidates": [
+        "R.df+1+2",
+        "1",
+        "f+1+2",
+        "df+1",
+        "df+1,2",
+        "df+1,4",
+        "df+1,4~3",
+        "df+1,4~3*",
+        "df+1,4~3*~B",
+        "df+1,4~4",
+        "uf+1",
+        "f,F+1+2",
+        "uf+1+2"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-1",
+      "noteId": "fahkumram-route-1-5",
+      "label": "ub+4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "b+4"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-1",
+      "noteId": "fahkumram-route-1-6",
+      "label": "dash df+4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4",
+        "df+4"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-1",
+      "noteId": "fahkumram-route-1-8",
+      "label": "dash db+1,2,Garuda Force",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "db+1",
+        "b+1"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-2",
+      "noteId": "fahkumram-route-2-1",
+      "label": "db+2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3",
+        "db+2",
+        "b+2"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-2",
+      "noteId": "fahkumram-route-2-2",
+      "label": "b+3,2,4",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4",
+        "b+3"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-2",
+      "noteId": "fahkumram-route-2-3",
+      "label": "db+4,3",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3",
+        "db+4",
+        "b+4",
+        "b+4,3"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-2",
+      "noteId": "fahkumram-route-2-4",
+      "label": "dash df+4",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4",
+        "df+4"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-3",
+      "noteId": "fahkumram-route-3-1",
+      "label": "db,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-3",
+      "noteId": "fahkumram-route-3-4",
+      "label": "d,3,4,3~4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "3,4",
+        "4",
+        "4,3"
+      ]
+    },
+    {
+      "characterId": "fahkumram",
+      "comboId": "fahkumram-route-3",
+      "noteId": "fahkumram-route-3-7",
+      "label": "2,3,(Dash,db,1,2,Garuda Force)",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "2,3",
+        "3"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-1",
+      "noteId": "armor-king-route-1-4",
+      "label": "f+3,2,D/F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "f+3",
+        "f+3,2"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-1",
+      "noteId": "armor-king-route-1-7",
+      "label": "dash f+1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2",
+        "f+1+2"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-1",
+      "noteId": "armor-king-route-1-8",
+      "label": "Bad Jaguar",
+      "status": "not-found"
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-1",
+      "noteId": "armor-king-route-1-10",
+      "label": "During Heat ff+4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-1",
+      "noteId": "armor-king-route-1-11",
+      "label": "d+4,4,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3",
+        "3+4",
+        "d+4",
+        "OTG.d+4,4,3+4"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-1",
+      "label": "f,N,d,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-2",
+      "label": "f,N,d,df,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-3",
+      "label": "f,N,d,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-4",
+      "label": "f,3,2,df",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-6",
+      "label": "f,3,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-7",
+      "label": "Dash,f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-8",
+      "label": "Bad Jaguar,Heat Burst",
+      "status": "not-found"
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-2",
+      "noteId": "armor-king-route-2-10",
+      "label": "d,4,4,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "4,3",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-3",
+      "noteId": "armor-king-route-3-1",
+      "label": "f,N,d,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-3",
+      "noteId": "armor-king-route-3-2",
+      "label": "f,N,d,df,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "f,n,d,df"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-3",
+      "noteId": "armor-king-route-3-3",
+      "label": "df,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-3",
+      "noteId": "armor-king-route-3-4",
+      "label": "f,3,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "2,1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-3",
+      "noteId": "armor-king-route-3-5",
+      "label": "f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "armor-king",
+      "comboId": "armor-king-route-3",
+      "noteId": "armor-king-route-3-9",
+      "label": "f,1+4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-1",
+      "noteId": "miary-zo-route-1-3",
+      "label": "df+4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4",
+        "df+4"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-1",
+      "noteId": "miary-zo-route-1-7",
+      "label": "b+3,4,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4",
+        "b+3",
+        "b+3,4",
+        "b+3,4,2"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-2",
+      "noteId": "miary-zo-route-2-4",
+      "label": "u,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-2",
+      "noteId": "miary-zo-route-2-7",
+      "label": "b,3,4,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-3",
+      "noteId": "miary-zo-route-3-1",
+      "label": "d,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-3",
+      "noteId": "miary-zo-route-3-5",
+      "label": "Morengy Miroso,1,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-3",
+      "noteId": "miary-zo-route-3-7",
+      "label": "b,3,4,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-3",
+      "noteId": "miary-zo-route-3-8",
+      "label": "Morengy Miroso,db",
+      "status": "not-found"
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-3",
+      "noteId": "miary-zo-route-3-10",
+      "label": "FBl!",
+      "status": "not-found"
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-3",
+      "noteId": "miary-zo-route-3-14",
+      "label": "3,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3",
+        "3,2"
+      ]
+    },
+    {
+      "characterId": "miary-zo",
+      "comboId": "miary-zo-route-3",
+      "noteId": "miary-zo-route-3-15",
+      "label": "f,1+2,1+2,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "1+2",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-1",
+      "noteId": "kunimitsu-route-1-5",
+      "label": "BT 1,3,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-1",
+      "noteId": "kunimitsu-route-1-8",
+      "label": "f+4,F",
+      "status": "ambiguous",
+      "candidates": [
+        "4",
+        "f+4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-2",
+      "noteId": "kunimitsu-route-2-2",
+      "label": "f,2,3",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-2",
+      "noteId": "kunimitsu-route-2-3",
+      "label": "f,3+4,BT,4,F,Setsunagake,1,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2",
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-3",
+      "noteId": "kunimitsu-route-3-3",
+      "label": "2,2,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2",
+        "2,2,2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-3",
+      "noteId": "kunimitsu-route-3-4",
+      "label": "Setsunagake,1,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-4",
+      "noteId": "kunimitsu-route-4-3",
+      "label": "Katon,4,2",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "4",
+        "4,2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-4",
+      "noteId": "kunimitsu-route-4-6",
+      "label": "Setsunagake,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-4",
+      "noteId": "kunimitsu-route-4-7",
+      "label": "d,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-5",
+      "noteId": "kunimitsu-route-5-2",
+      "label": "2,2,2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "2",
+        "2,2",
+        "2,2,2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-5",
+      "noteId": "kunimitsu-route-5-3",
+      "label": "Setsunagake,1,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-5",
+      "noteId": "kunimitsu-route-5-6",
+      "label": "Setsunagake,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-6",
+      "noteId": "kunimitsu-route-6-4",
+      "label": "Setsunagake,1,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-6",
+      "noteId": "kunimitsu-route-6-7",
+      "label": "During Heat,f,1+2,F",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-6",
+      "noteId": "kunimitsu-route-6-9",
+      "label": "Setsunagake,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-7",
+      "noteId": "kunimitsu-route-7-1",
+      "label": "BT,f,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-7",
+      "noteId": "kunimitsu-route-7-2",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-7",
+      "noteId": "kunimitsu-route-7-3",
+      "label": "BT,4",
+      "status": "ambiguous",
+      "candidates": [
+        "1,1,4",
+        "1,2,4",
+        "3,4",
+        "4",
+        "d+3,4",
+        "d+3,4,1",
+        "d+3,4,1,F",
+        "db+2,4",
+        "db+2,4,2",
+        "db+3,3,3,3,3,4",
+        "b+3,4",
+        "BT.1,2,4",
+        "BT.1,4",
+        "SET.1,2,4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-7",
+      "noteId": "kunimitsu-route-7-5",
+      "label": "Setsunagake,1,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-8",
+      "noteId": "kunimitsu-route-8-1",
+      "label": "BT,f,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-8",
+      "noteId": "kunimitsu-route-8-2",
+      "label": "f,3+4",
+      "status": "ambiguous",
+      "candidates": [
+        "3",
+        "4",
+        "3+4"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-8",
+      "noteId": "kunimitsu-route-8-4",
+      "label": "Setsunagake,1,2,1",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "1,2",
+        "2"
+      ]
+    },
+    {
+      "characterId": "kunimitsu",
+      "comboId": "kunimitsu-route-8",
+      "noteId": "kunimitsu-route-8-7",
+      "label": "Setsunagake,1+2",
+      "status": "ambiguous",
+      "candidates": [
+        "1",
+        "2",
+        "1+2"
+      ]
+    }
+  ]
+}
